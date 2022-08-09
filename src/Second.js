@@ -6,6 +6,7 @@ export default function Second() {
   return (
     <>
     <div className="container-fluid">
+    
     <p>Device</p>
         <div className="container">
      <div className="row py-4">
@@ -52,8 +53,6 @@ export default function Second() {
      </div>
     
      </div>
-    
-    
         </div>
         
       
@@ -107,7 +106,7 @@ export default function Second() {
                 </tbody>
         </table>
      
-    <div className="row py-3">
+    <div className="row py-4">
     <div className="col-md-10 offset-1 text-center">
      
       

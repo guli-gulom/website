@@ -15,7 +15,7 @@ p{
     max-width: 1400px;
     box-shadow: 3px 4px 7px 3px rgba(0, 0, 0, 0.3);
     margin: 1rem auto;
-    height: 90vh;
+   min-height: 90vh;
 
 }
 .container{
